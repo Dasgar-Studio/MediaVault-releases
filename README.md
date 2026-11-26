@@ -13,8 +13,8 @@
 Choose the edition that best fits your setup on **Windows 10 / Windows 11 (64-bit)**:
 
 1. <img src="assets/logos/MicrosoftStore.svg" width="16" height="16" alt="Microsoft Store" /> <img src="assets/logos/Atlas.svg" width="16" height="16" alt="MediaVault Atlas" /> **MediaVault Atlas — Microsoft Store (Recommended):** Install directly from the Windows Store with automatic background updates managed by Windows Update.
-2. <img src="assets/logos/GitHub.svg" width="16" height="16" alt="GitHub" /> <img src="assets/logos/Edge.svg" width="16" height="16" alt="MediaVault Edge" /> **MediaVault Edge — Windows Installer (`MediaVault Setup 1.0.0.exe`):** Download from **[GitHub Releases](https://github.com/Dasgar-Studio/MediaVault-releases/releases/latest)** for a standard installation with shortcuts and silent background updates.
-3. <img src="assets/logos/GitHub.svg" width="16" height="16" alt="GitHub" /> <img src="assets/logos/Edge.svg" width="16" height="16" alt="MediaVault Edge" /> **MediaVault Edge — Portable Edition (`MediaVault 1.0.0.exe`):** Standalone executable that runs immediately from any folder or USB drive without installation.
+2. <img src="assets/logos/GitHub.svg" width="16" height="16" alt="GitHub" /> <img src="assets/logos/Edge.svg" width="16" height="16" alt="MediaVault Edge" /> **MediaVault Edge — Windows Installer (`MediaVault Setup 1.0.1.exe`):** Download from **[GitHub Releases](https://github.com/Dasgar-Studio/MediaVault-releases/releases/latest)** for a standard installation with shortcuts and silent background updates.
+3. <img src="assets/logos/GitHub.svg" width="16" height="16" alt="GitHub" /> <img src="assets/logos/Edge.svg" width="16" height="16" alt="MediaVault Edge" /> **MediaVault Edge — Portable Edition (`MediaVault 1.0.1.exe`):** Standalone executable that runs immediately from any folder or USB drive without installation.
 
 ---
 
@@ -70,9 +70,10 @@ Choose the edition that best fits your setup on **Windows 10 / Windows 11 (64-bi
 - **One-Click `.zip` Backups:** Export a full, timestamped backup archive of your library directly from Settings.
 
 ### Multiple Ways to Browse & Track
-- **Realistic Library Shelves:** Display your covers on customizable 5-to-10-column shelves with sorting controls, half-star ratings (`0.5`–`5.0`), quick `+1` / `-1` progress buttons, and automatic gradient covers when no artwork is provided.
+- **Realistic Library Shelves:** Display your covers on customizable 5-to-10-column shelves with per-vault sorting controls, half-star ratings (`0.5`–`5.0`), quick `+1` / `-1` progress buttons, hidden item toggles, and automatic gradient covers when no artwork is provided.
 - **Executive Dashboard:** Pick up right where you left off with a quick-resume hero banner, collection statistics, and horizontal carousels for active and recent entries.
-- **Drag-and-Drop Kanban Board:** Organize your backlog, in-progress, paused, and completed titles across customizable status columns.
+- **Drag-and-Drop Kanban Board:** Organize your backlog, in-progress, paused, and completed titles across customizable status columns with collapsible lanes when more than 5 columns exist.
+- **Multi-Edit & Bulk Actions:** Toggle **Multi-Edit** directly from the top bar to select multiple entries and batch-update status, category, tags, favorites, hidden visibility, or move items to the recycle bin.
 - **Rich Detail Pages:** Track episodes, pages, hours, or simple completed/pending toggles, manage multi-season breakdowns and custom fields with drag-and-drop reordering, and switch status directly from the top bar.
 - **Browser-Style History & Safe Links:** Move backward and forward across visited pages (`Alt + ←` / `Alt + →` or mouse side buttons) with unsaved-changes warnings and external link confirmation prompts.
 - **Modern Recycle Bin:** Recover accidentally deleted entries with cover previews, search, section filters, and multi-select batch restore.
@@ -83,7 +84,7 @@ Choose the edition that best fits your setup on **Windows 10 / Windows 11 (64-bi
 - **Auto-Lock & Panic Shortcut:** Automatically locks and clears private data from memory after 10 minutes of inactivity, or immediately whenever you press `Ctrl + L`.
 
 ### Personalization, Languages & Add-Ons
-- **12 Built-In Themes:** Switch effortlessly between 6 Light and 6 Dark palettes or fine-tune every color token yourself.
+- **12 Built-In Themes & Custom Theme Studio:** Switch effortlessly between 6 Light and 6 Dark palettes or create, edit, and update your own custom themes live.
 - **Searchable Section Icons:** Create custom media sections and find the right icon instantly across 150+ categorized icons.
 - **Plugins & Extensions:** Extend MediaVault with optional add-ons installed via `.zip` drag-and-drop or the on-demand Official Plugin Catalog.
 - **6 Supported Languages:**
@@ -116,7 +117,7 @@ Choose the edition that best fits your setup on **Windows 10 / Windows 11 (64-bi
 
 - **Bug Reports & Suggestions:** Open an issue on [GitHub Issues](https://github.com/Dasgar-Studio/MediaVault-releases/issues).
 - **Direct Support & Security Inquiries:** [dasgarstudio@gmail.com](mailto:dasgarstudio@gmail.com)
-- **Support Development:** <img src="assets/logos/Ko-fi.svg" width="16" height="16" alt="Ko-fi" /> [Ko-fi](https://ko-fi.com/) · <img src="assets/logos/Paypal.svg" width="16" height="16" alt="PayPal" /> [PayPal](https://paypal.me/)
+- **Support Development:** <img src="assets/logos/Ko-fi.svg" width="16" height="16" alt="Ko-fi" /> [Ko-fi](https://ko-fi.com/dasgarstudio) · <img src="assets/logos/GitHub.svg" width="16" height="16" alt="GitHub Sponsors" /> [GitHub Sponsors](https://github.com/sponsors/Dasgar-Studio)
 
 ---
 

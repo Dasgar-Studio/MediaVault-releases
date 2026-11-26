@@ -18,7 +18,7 @@ A clear and concise description of what went wrong.
 A clear description of what you expected to happen.
 
 **Environment**
-- MediaVault Version: [e.g., v1.0.0]
+- MediaVault Version: [e.g., v1.0.1]
 - Operating System: [e.g., Windows 11 x64]
 - Edition: [Microsoft Store (MediaVault Atlas) / Windows Installer / Portable Edition]
 

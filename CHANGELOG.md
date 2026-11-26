@@ -6,7 +6,36 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ---
 
-## [1.0.0] - 2026-11-XX
+## [1.0.1] - 2026-11-26
+
+### Added
+- **Multi-Edit Mode & Hide Controls in TopBar:**
+  - Moved the **Multi-Edit** toggle and **Hide/Show Hidden Items** button directly to the contextual top toolbar, automatically adapting visibility based on the active view.
+  - Expanded bulk actions in `BatchActionBar` with batch category updates, favorite toggles, hide/unhide toggles, and action confirmation summaries showing the number of affected entries.
+- **Hidden Entries Support:**
+  - Added the ability to hide or unhide individual entries from the card context menu or batch bar, along with a visual badge and filter indicator when hidden items are displayed.
+- **Collapsible Kanban Columns & Horizontal Scrolling:**
+  - Added collapsible column toggles when a board has more than 5 status columns, persisting collapsed states per vault in `.vault-config.json` and enabling smooth horizontal scrolling for expanded lanes.
+- **Custom Theme Updating:**
+  - Added an inline edit/cancel flow (`Pencil` / `X`) in **Appearance** settings to update both the name and the full 17-token palette and visual effects of existing custom themes.
+
+### Changed
+- **Per-Vault Sort Persistence & Two-Column Direction Menu:**
+  - Saved and restored both the active sort criterion and direction independently per vault.
+  - Redesigned the `TopBar` sort dropdown with a shared two-column direction row (**Start to end** / **End to start**).
+- **Kanban Sort Preservation & Search Filter Coherence:**
+  - Prevented dragging cards in Kanban from automatically overriding the active sort mode into `Custom order` unless `Custom order` is explicitly selected.
+  - Automatically cleared residual search queries when switching sections or views from the sidebar dock.
+- **Localization Updates:**
+  - Added 30 new translation keys across all 6 supported languages (`en`, `es`, `fr`, `pt`, `de`, `ja`) covering sorting controls, multi-edit, hidden entries, collapsible Kanban lanes, and custom theme updates.
+
+### Removed
+- **Percentage Progress Sort Option:**
+  - Removed the redundant `Progress (%)` sorting option in favor of unit-based progress sorting.
+
+---
+
+## [1.0.0] - 2026-11-25
 
 ### Added
 - **Initial Public Release (Microsoft Store & Windows x64):**
